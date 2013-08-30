@@ -37,13 +37,4 @@
     "karma": ">=0.9"
   },
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/karma-runner/karma-jasmine/issues"
-  },
-  "readme": "ERROR: No README data found!",
-  "_id": "karma-jasmine-imagediff@0.1.0",
-  "dist": {
-    "shasum": "8ada42b8219ec75c2a35ba307f8a98d8f435632a"
-  },
-  "_from": "node_modules/karma-jasmine-imagediff"
 }
