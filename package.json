@@ -1,0 +1,49 @@
+{
+  "name": "karma-jasmine-imagediff",
+  "version": "0.1.0",
+  "description": "A Karma plugin - adapter for Jasmine Imagediff matching framework.",
+  "main": "lib/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/karma-runner/karma-jasmine.git"
+  },
+  "keywords": [
+    "karma-plugin",
+    "karma-adapter",
+    "jasmine",
+    "imagediff"
+  ],
+  "author": {
+    "name": "Chris Finch",
+    "email": "chrisfinchy@gmail.com"
+  },
+  "dependencies": {
+    "canvas": "*",
+    "imagediff": "*"
+  },
+  "devDependencies": {
+    "grunt": "~0.4.1",
+    "grunt-contrib-jshint": "~0.6",
+    "karma": "~0.9",
+    "karma-jasmine": "*",
+    "grunt-karma": "~0.4",
+    "grunt-auto-release": "~0.0.2",
+    "grunt-npm": "~0.0.2",
+    "grunt-bump": "~0.0.7",
+    "canvas": "*",
+    "imagediff": "*"
+  },
+  "peerDependencies": {
+    "karma": ">=0.9"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/karma-runner/karma-jasmine/issues"
+  },
+  "readme": "ERROR: No README data found!",
+  "_id": "karma-jasmine-imagediff@0.1.0",
+  "dist": {
+    "shasum": "8ada42b8219ec75c2a35ba307f8a98d8f435632a"
+  },
+  "_from": "node_modules/karma-jasmine-imagediff"
+}
