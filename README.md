@@ -6,7 +6,7 @@
 
 See here for getting Karma running with Require: https://github.com/karma-runner/karma-requirejs
 
-If you are using require and they try to include the imagediff files in the test runner browsers you will see that the node require calls in the imagediff code conflict with the Require.js require calls in the testing code. This adapter allows you to import the imagediff api in to karma/jasmine without coflicts.
+If you are using require and then try to include the imagediff files in the test runner browsers you will see that the node require calls in the imagediff code conflict with the Require.js require calls in the testing code. This adapter allows you to import the imagediff api in to karma/jasmine without coflicts.
 
 Requires [lib cairo](https://github.com/LearnBoost/node-canvas/wiki/_pages) to be installed for the  node package to work. `brew install cairo` works well. You may also need dependancies of cairo `brew install fontconfig`...
 
